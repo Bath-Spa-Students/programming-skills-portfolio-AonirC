@@ -1,0 +1,6 @@
+#function on my favorite book
+def favorite_book(title):
+    """Display a message about your favorite book."""
+    print(f"One of my favorite books is {title}!")
+
+favorite_book('The Martian')
